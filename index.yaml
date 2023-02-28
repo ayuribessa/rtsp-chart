@@ -3,12 +3,12 @@ entries:
   rtsp-server-chart:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2023-01-31T16:18:04.97798349-03:00"
+    created: "2023-02-28T00:58:49.10903037-03:00"
     description: A Helm chart for Kubernetes With a Simple rtsp-server
-    digest: 52b918a4d3abf1dd2a039a54ad5aa289783563d5eb5fe7d494ff4426498f239b
+    digest: d48c2f41c02d04a201e80fb102d506603a5e8098fb1d4f27c74db038a20edfd9
     name: rtsp-server-chart
     type: application
     urls:
-    - https://ayuribessa.github.io/rtsp-chart/rtsp-server-chart-0.2.0.tgz
-    version: 0.2.0
-generated: "2023-01-31T16:18:04.976611622-03:00"
+    - https://ayuribessa.github.io/rtsp-chart/rtsp-server-chart-0.3.0.tgz
+    version: 0.3.0
+generated: "2023-02-28T00:58:49.10862267-03:00"
